@@ -7,4 +7,5 @@ class Solution:
                 if left and right:
                     flowerbed[i]=1
                     n-=1
+        print(flowerbed)
         return n<=0
