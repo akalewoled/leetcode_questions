@@ -1,11 +1,6 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        
-        s=list(s.split(" "))
-        ss=[]
-        for i in s:
-            if len(i)>=1:
-                ss.append(i)
+        ss=[i for i in s.split(" ") if len(i)>0 ]
         
         return " ".join(reversed(ss))
         
