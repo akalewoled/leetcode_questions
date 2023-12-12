@@ -1,8 +1,11 @@
 class Solution:
     def maxCoins(self, piles: List[int]) -> int:
-        n=len(piles)
-        piles=sorted(piles)
-        ans=0
-        for i in range(n//3,n,2):
-            ans+=piles[i]
+        piles.sort()
+        queue = deque(piles)
+        ans = 0
+        while queue:
+            queue.pop() # alice
+            ans += queue.pop() # us
+            queue.popleft() # bob
+
         return ans
