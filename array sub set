@@ -1,0 +1,42 @@
+#User function Template for python3
+from collections import Counter
+def isSubset( a1, a2, n, m):#a[1,2,3,4,2]
+    a1=Counter(a1) # a1={1:1,2:2,3:1,4:1}
+    a2=Counter(a2)
+    if a1 & a2 ==a2:
+        return "Yes"
+    else:
+        return "No"
+
+    
+    
+    
+    
+    
+
+
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+
+def main():
+
+    T = int(input())
+
+    while(T > 0):
+        sz = [int(x) for x in input().strip().split()]
+        n, m = sz[0], sz[1]
+        a1 = [int(x) for x in input().strip().split()]
+        a2 = [int(x) for x in input().strip().split()]
+        
+        print(isSubset( a1, a2, n, m))
+
+        T -= 1
+
+
+if __name__ == "__main__":
+    main()
+
+# } Driver Code Ends
