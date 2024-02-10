@@ -1,0 +1,75 @@
+Given two arrays: a1[0..n-1] of size n and a2[0..m-1] of size m, where both arrays may contain duplicate elements. The task is to determine whether array a2 is a subset of array a1. It's important to note that both arrays can be sorted or unsorted. Additionally, each occurrence of a duplicate element within an array is considered as a separate element of the set.
+
+Example 1:
+
+Input:
+a1[] = {11, 7, 1, 13, 21, 3, 7, 3}
+a2[] = {11, 3, 7, 1, 7}
+Output:
+Yes
+Explanation:
+a2[] is a subset of a1[]
+
+Example 2:
+
+Input:
+a1[] = {1, 2, 3, 4, 4, 5, 6}
+a2[] = {1, 2, 4}
+Output:
+Yes
+Explanation:
+a2[] is a subset of a1[]
+
+Example 3:
+
+Input:
+a1[] = {10, 5, 2, 23, 19}
+a2[] = {19, 5, 3}
+Output:
+No
+Explanation:
+a2[] is not a subset of a1[]
+***=========================================================here is the solution i come up with ================================================================================================***********
+
+#User function Template for python3
+from collections import Counter
+def isSubset( a1, a2, n, m):#a[1,2,3,4,2]
+    a1=Counter(a1) # a1={1:1,2:2,3:1,4:1}
+    a2=Counter(a2)
+    if a1 & a2 ==a2:
+        return "Yes"
+    else:
+        return "No"
+
+    
+    
+    
+    
+    
+
+
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+
+def main():
+
+    T = int(input())
+
+    while(T > 0):
+        sz = [int(x) for x in input().strip().split()]
+        n, m = sz[0], sz[1]
+        a1 = [int(x) for x in input().strip().split()]
+        a2 = [int(x) for x in input().strip().split()]
+        
+        print(isSubset( a1, a2, n, m))
+
+        T -= 1
+
+
+if __name__ == "__main__":
+    main()
+
+# } Driver Code Ends
