@@ -2,6 +2,9 @@
 #first we inteiate a set consisting the clubs and  their respective winner and ;ooser 
 #and then compare it with the max 
 
+""""
+first we create  team table and the we select he teams which have not loose record and  thae team who have lost onlu once 
+"""
 class Solution:
     def findWinners(self, matches: List[List[int]]) -> List[List[int]]:
         table={}
