@@ -1,16 +1,18 @@
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
         presum=[0]
-        for i in nums:
-            presum.append(i+presum[-1])
-        presum.pop(0)
         check={0:1}
-        res=0
-        for i in presum:
-            comp=i%k
-            if comp in check:
-                res+=check[comp]
-                check[comp]+=1
-            else:
-                check[comp]=1
-        return res
+        for i in nums:
+            tempo=i+presum[-1]
+            presum.append(tempo)
+            rem=tempo%k
+            check[rem]=1+check.get(rem,0)
+        final=0
+        for i in check:
+            if check[i]>1:
+                temporary=check[i]*(check[i]-1)//2
+                final+=temporary
+        return final
+    #time  O(n)*O(m)
+       
+    
