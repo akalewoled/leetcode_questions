@@ -11,12 +11,10 @@ class Solution:
         #calculate the prefix sum
         prefix_sum = [0] * len(array1)
 
-        # Calculate prefix sum
         prefix_sum[0] = array1[0]
         for i in range(1, len(array1)):
             prefix_sum[i] = prefix_sum[i-1] + array1[i]
-        # Print prefix sum
-        print(prefix_sum)
+        
         final=[]#string to br recorderd
         for i in range(len(s)):
             asci=ord(s[i])
@@ -26,6 +24,5 @@ class Solution:
             asci=asci+97
             final.append(chr(asci))
         return "".join(final)
-        # adjust the string
 
             
