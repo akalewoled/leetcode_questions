@@ -1,24 +1,37 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
-        def daysperweight( weightlist:list[int],capacity:int):
-            day=0
-            car=0
-            for i in weightlist:
-                if car+i <=capacity:
-                    car+=i
-                else:
-                    day+=1
-                    car=0
-                    car+=i
-            return day+1
-        mincapacity=max(weights)
-        maxcapacity=sum(weights)
-        while mincapacity<=maxcapacity:
-            mid=(mincapacity+maxcapacity)//2
-            if daysperweight(weights,mid)<=days:
-                maxcapacity=mid-1
-            elif daysperweight(weights,mid)>days:
-                mincapacity=mid+1
-        return mincapacity
-
+        
+        def requireddays(capacity):
+            days=0
+            i=0
+            load=0
+            
+            while i< len(weights):
+                load+=weights[i]
+                
+                if load== capacity:
+                    days+=1
+                    load=0
+                elif load > capacity:
+                    days+=1
+                    load=weights[i]
+                
+                i+=1
+            while load> 0:
+                load-=capacity
+                days+=1
+            return days
+        
+        l=max(weights)
+        r=sum(weights)
+        
+        while l<=r:
+            mid = l+(r-l)//2
+            day=requireddays(mid)
+            if day > days:
+                l=mid+1
+            else:
+                r=mid-1
+        return l
+                
             
