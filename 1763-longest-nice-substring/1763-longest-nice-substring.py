@@ -11,10 +11,8 @@ class Solution:
                     pivot.append(i)
                 if ch.islower() and ch.upper() not in s:
                     pivot.append(i)
-			# if no such character return the string
             if not pivot:
                 return s
-			# divide the string in half excluding the char that makes the string not nice
             else:
                 mid = (len(pivot)) // 2
                 return max(divcon(s[:pivot[mid]]),divcon(s[pivot[mid]+1:]),key=len)
