@@ -6,22 +6,13 @@ class Solution:
             graph[a].append(b)
             graph[b].append(a)
         
-        visited=[]
-        
-        
-        def dfs(node, seen):
-            if node == destination:
-                return True
-            if node in seen:
-                return False
-            
-            seen.add(node)
-            for n in graph[node]:
-                if dfs(n, seen):
-                    return True
-                
-            return False
-        
-        seen = set()    
-        return dfs(source, seen)
-                   
+        visited={source}
+        stack=[source]
+        while stack:
+            n=stack.pop()
+            if n== destination: return True
+            for edge in graph.get(n,[]):
+                if edge not in visited:
+                    visited.add(edge)
+                    stack.append(edge)
+        return False
