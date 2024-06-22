@@ -7,22 +7,21 @@ class Solution:
         islands=0
         rows,cols=len(grid),len(grid[0])
 
-        def bfs(r,c):
-            q=collections.deque()
-
-            visted.add((r,c))
+        def bfs(row,col):
             
-            q.append((r,c))
+            deque=collections.deque()
+            visted.add((row,col))
+            deque.append((row,col))
             
-            while q:
-                row,col=q.popleft()
+            while deque:
+                x,y=deque.popleft()
                 directions=[  [1,0], [-1,0], [0,1], [0,-1]  ]
-                for dr,dc in directions:
-                    r=dr+row
-                    c=dc+col
-                    if (r in range(rows) and c in range(cols) and grid[r][c]=="1" and (r,c) not in visted):
-                        q.append((r,c))
-                        visted.add((r,c))
+                for r,c in directions:
+                    xx=x+r
+                    yy=y+c
+                    if (xx in range(rows) and yy in range(cols) and grid[xx][yy]=="1" and (xx,yy) not in visted):
+                        deque.append((xx,yy))
+                        visted.add((xx,yy))
 
 
 
