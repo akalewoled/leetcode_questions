@@ -50,3 +50,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/akalewoled/leetcode_questions/tree/master/0129-sum-root-to-leaf-numbers) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/akalewoled/leetcode_questions/tree/master/0009-palindrome-number) |
