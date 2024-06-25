@@ -9,19 +9,19 @@ class Solution:
 
         #lets run bfs and check if we can complete all the nodes
         def  checkcircle(node: int) ->bool:
-            
+            if pvisited[node] == 1:
+                return True
             visited[node]=1
             pvisited[node]=1
-
             for item in graph[node]:
-                if visited[item]==0:
+                
+                if visited[item]==0 :
                     if checkcircle(item) == True:
                         return True
-                elif (pvisited[item]==1):
+                elif pvisited[item]==1:
                     return True
-
             pvisited[node]=0
-            return  False
+            return False
             
             
         for item in graph:
