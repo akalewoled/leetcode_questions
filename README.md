@@ -11,6 +11,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0463-island-perimeter](https://github.com/akalewoled/leetcode_questions/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/akalewoled/leetcode_questions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/akalewoled/leetcode_questions/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/akalewoled/leetcode_questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/akalewoled/leetcode_questions/tree/master/2206-detonate-the-maximum-bombs) |
 # Breadth-First Search
@@ -22,6 +23,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0463-island-perimeter](https://github.com/akalewoled/leetcode_questions/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/akalewoled/leetcode_questions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/akalewoled/leetcode_questions/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/akalewoled/leetcode_questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/akalewoled/leetcode_questions/tree/master/2206-detonate-the-maximum-bombs) |
 # Union Find
@@ -37,6 +39,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0207-course-schedule](https://github.com/akalewoled/leetcode_questions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/akalewoled/leetcode_questions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/akalewoled/leetcode_questions/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/akalewoled/leetcode_questions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/akalewoled/leetcode_questions/tree/master/2206-detonate-the-maximum-bombs) |
 # Array
