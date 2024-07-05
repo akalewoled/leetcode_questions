@@ -89,6 +89,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Breadth-First Search
 |  |
 | ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union Find
 |  |
@@ -98,4 +99,8 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
