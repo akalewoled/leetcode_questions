@@ -83,6 +83,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/akalewoled/leetcode_questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,4 +107,12 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
+## Greedy
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
