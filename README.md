@@ -118,6 +118,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0023-merge-k-sorted-lists](https://github.com/akalewoled/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Hash Table
 |  |
@@ -161,4 +162,24 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akalewoled/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
