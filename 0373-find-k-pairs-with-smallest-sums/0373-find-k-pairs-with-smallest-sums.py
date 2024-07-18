@@ -6,7 +6,7 @@ class Solution:
         final=[]
         h=[(a[0]+b[0],(0,0))]
         visited=set()
-        for _ in range(min(k,m*n)):
+        for _ in range(k):
             val,(i,j)=heappop(h)
             final.append([a[i],b[j]])
 
