@@ -85,6 +85,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akalewoled/leetcode_questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/akalewoled/leetcode_questions/tree/master/0506-relative-ranks) |
+| [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/akalewoled/leetcode_questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -117,6 +118,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
+| [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akalewoled/leetcode_questions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Heap (Priority Queue)
@@ -150,6 +152,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/akalewoled/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
+| [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 ## Bucket Sort
