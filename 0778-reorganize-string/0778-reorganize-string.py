@@ -20,8 +20,7 @@ class Solution:
             if Y[0]<-1:
                 heappush(q,(Y[0]+1,Y[1]))
         if q:
-            if q[0][0]<-1:
-                return ""
+            
             final.append(q[0][1])
         return "".join(map(str,final))
 
