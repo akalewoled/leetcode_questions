@@ -97,10 +97,12 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -120,6 +122,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Greedy
 |  |
@@ -226,4 +229,8 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
