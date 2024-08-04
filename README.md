@@ -95,6 +95,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/akalewoled/leetcode_questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,4 +247,12 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0820-find-eventual-safe-states](https://github.com/akalewoled/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akalewoled/leetcode_questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
+## Simulation
+|  |
+| ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
