@@ -104,6 +104,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akalewoled/leetcode_questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/akalewoled/leetcode_questions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akalewoled/leetcode_questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/akalewoled/leetcode_questions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -247,6 +249,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0820-find-eventual-safe-states](https://github.com/akalewoled/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akalewoled/leetcode_questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/akalewoled/leetcode_questions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Two Pointers
 |  |
 | ------- |
