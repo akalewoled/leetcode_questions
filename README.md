@@ -85,6 +85,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akalewoled/leetcode_questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/akalewoled/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
@@ -246,6 +247,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 ## Topological Sort
 |  |
 | ------- |
