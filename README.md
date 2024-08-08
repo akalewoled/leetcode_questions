@@ -240,6 +240,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akalewoled/leetcode_questions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Dynamic Programming
 |  |
@@ -248,6 +249,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 ## Topological Sort
 |  |
 | ------- |
@@ -268,4 +270,5 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
