@@ -84,6 +84,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akalewoled/leetcode_questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/akalewoled/leetcode_questions/tree/master/0506-relative-ranks) |
@@ -111,6 +112,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
 | [0820-find-eventual-safe-states](https://github.com/akalewoled/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -248,6 +250,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 ## Topological Sort
