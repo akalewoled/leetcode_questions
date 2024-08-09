@@ -175,6 +175,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
+| [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 ## Trie
 |  |
@@ -253,6 +254,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
 ## Topological Sort
 |  |
 | ------- |
