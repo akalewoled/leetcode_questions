@@ -93,6 +93,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0506-relative-ranks](https://github.com/akalewoled/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -150,6 +151,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akalewoled/leetcode_questions/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -164,6 +166,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -193,6 +196,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
