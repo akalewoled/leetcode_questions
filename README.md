@@ -82,6 +82,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
@@ -129,6 +130,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/akalewoled/leetcode_questions/tree/master/1876-map-of-highest-peak) |
@@ -254,6 +256,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akalewoled/leetcode_questions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
