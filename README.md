@@ -88,6 +88,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akalewoled/leetcode_questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/akalewoled/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
@@ -256,6 +257,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0300-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0494-target-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
 ## Topological Sort
@@ -279,4 +281,8 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
