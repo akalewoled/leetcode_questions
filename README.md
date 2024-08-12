@@ -101,6 +101,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/akalewoled/leetcode_questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Depth-First Search
@@ -169,6 +170,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
@@ -176,6 +178,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
+| [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -199,6 +202,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
+| [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 ## Bucket Sort
 |  |
@@ -284,6 +288,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Simulation
 |  |
 | ------- |
+| [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Memoization
 |  |
