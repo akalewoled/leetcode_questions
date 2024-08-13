@@ -97,6 +97,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/akalewoled/leetcode_questions/tree/master/1876-map-of-highest-peak) |
@@ -138,6 +139,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/akalewoled/leetcode_questions/tree/master/0542-01-matrix) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/akalewoled/leetcode_questions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/akalewoled/leetcode_questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -277,6 +279,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/akalewoled/leetcode_questions/tree/master/0542-01-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
 ## Topological Sort
