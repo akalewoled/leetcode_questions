@@ -87,6 +87,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/akalewoled/leetcode_questions/tree/master/0330-patching-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akalewoled/leetcode_questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0494-target-sum) |
@@ -153,6 +154,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
+| [0330-patching-array](https://github.com/akalewoled/leetcode_questions/tree/master/0330-patching-array) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
