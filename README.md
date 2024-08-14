@@ -100,6 +100,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akalewoled/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1876-map-of-highest-peak](https://github.com/akalewoled/leetcode_questions/tree/master/1876-map-of-highest-peak) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/akalewoled/leetcode_questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -315,4 +316,12 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/akalewoled/leetcode_questions/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akalewoled/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akalewoled/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
