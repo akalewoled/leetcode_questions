@@ -106,6 +106,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/akalewoled/leetcode_questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2262-solving-questions-with-brainpower](https://github.com/akalewoled/leetcode_questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -288,6 +289,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
+| [2262-solving-questions-with-brainpower](https://github.com/akalewoled/leetcode_questions/tree/master/2262-solving-questions-with-brainpower) |
 ## Topological Sort
 |  |
 | ------- |
