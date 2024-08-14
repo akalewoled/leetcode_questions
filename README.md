@@ -182,6 +182,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
@@ -190,6 +191,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
@@ -262,6 +264,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/akalewoled/leetcode_questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
