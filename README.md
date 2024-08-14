@@ -198,6 +198,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/akalewoled/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 ## Trie
 |  |
@@ -328,4 +329,8 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akalewoled/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/akalewoled/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
