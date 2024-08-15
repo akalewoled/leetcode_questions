@@ -110,6 +110,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/akalewoled/leetcode_questions/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
 | [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/akalewoled/leetcode_questions/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## String
 |  |
 | ------- |
@@ -333,4 +335,9 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akalewoled/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/akalewoled/leetcode_questions/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/akalewoled/leetcode_questions/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 <!---LeetCode Topics End-->
