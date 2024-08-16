@@ -82,6 +82,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -140,6 +141,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/akalewoled/leetcode_questions/tree/master/0542-01-matrix) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
@@ -280,6 +282,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akalewoled/leetcode_questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
