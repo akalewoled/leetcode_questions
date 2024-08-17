@@ -292,6 +292,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0494-target-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/akalewoled/leetcode_questions/tree/master/0542-01-matrix) |
+| [0815-champagne-tower](https://github.com/akalewoled/leetcode_questions/tree/master/0815-champagne-tower) |
 | [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
