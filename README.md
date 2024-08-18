@@ -81,6 +81,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akalewoled/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
@@ -234,6 +235,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akalewoled/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/akalewoled/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
@@ -259,6 +261,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akalewoled/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
