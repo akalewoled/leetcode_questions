@@ -200,6 +200,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akalewoled/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
@@ -284,6 +285,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akalewoled/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/akalewoled/leetcode_questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akalewoled/leetcode_questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0063-unique-paths-ii) |
@@ -313,6 +315,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akalewoled/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
