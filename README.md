@@ -206,6 +206,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akalewoled/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0647-palindromic-substrings](https://github.com/akalewoled/leetcode_questions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
@@ -306,6 +307,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0494-target-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/akalewoled/leetcode_questions/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/akalewoled/leetcode_questions/tree/master/0647-palindromic-substrings) |
 | [0815-champagne-tower](https://github.com/akalewoled/leetcode_questions/tree/master/0815-champagne-tower) |
 | [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
@@ -323,6 +325,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akalewoled/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/akalewoled/leetcode_questions/tree/master/0647-palindromic-substrings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
