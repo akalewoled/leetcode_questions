@@ -1,11 +1,23 @@
 class Solution:
     def maxProfit(self, prices):
-        if len(prices) < 2:
-            return 0
-        sell, buy, prev_sell, prev_buy = 0, -prices[0], 0, 0
-        for price in prices:
-            prev_buy = buy
-            buy = max(prev_sell - price, prev_buy)
-            prev_sell = sell
-            sell = max(prev_buy + price, prev_sell)
-        return sell
+        
+        cache={}
+        def dfs(buy,i):
+            
+            if i >=len(prices):
+                return 0
+            if (i,buy) in cache:
+                return cache[(i,buy)]
+            
+            if buy:
+                buying=  dfs(not buy,i+1)-prices[i]
+                cool=dfs(buy,i+1)
+                cache[(i,buy)]=max(buying,cool)
+            else:
+                selling=prices[i]+dfs(not buy,i+2)#not buy to revese the orginal not buy
+                cool=dfs(buy,i+1)
+                cache[(i,buy)]=max(selling,cool)
+            return cache[(i,buy)]
+        return dfs(True,0)
+            
+           
