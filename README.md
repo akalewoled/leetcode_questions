@@ -101,6 +101,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0518-coin-change-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/akalewoled/leetcode_questions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
@@ -308,6 +309,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0518-coin-change-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/akalewoled/leetcode_questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/akalewoled/leetcode_questions/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0815-champagne-tower](https://github.com/akalewoled/leetcode_questions/tree/master/0815-champagne-tower) |
 | [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
@@ -362,4 +364,12 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/akalewoled/leetcode_questions/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
