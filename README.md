@@ -91,6 +91,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/akalewoled/leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
@@ -198,6 +199,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
@@ -225,6 +227,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0179-largest-number](https://github.com/akalewoled/leetcode_questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/akalewoled/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
@@ -274,6 +277,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akalewoled/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -290,6 +294,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/akalewoled/leetcode_questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akalewoled/leetcode_questions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Dynamic Programming
@@ -380,5 +385,6 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akalewoled/leetcode_questions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
