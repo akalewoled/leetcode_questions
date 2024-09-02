@@ -388,4 +388,5 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akalewoled/leetcode_questions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/akalewoled/leetcode_questions/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/akalewoled/leetcode_questions/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
