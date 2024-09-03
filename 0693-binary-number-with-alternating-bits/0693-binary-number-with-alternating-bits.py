@@ -1,8 +1,4 @@
 class Solution:
-    def hasAlternatingBits(self, n: int) -> bool:
-        n=bin(n)
-        for i in range(1,len(n)):
-            if n[i] ==n[i-1]:
-                return False
-        return True
-        
+        def hasAlternatingBits(self, n):
+            s = bin(n)
+            return '00' not in s and '11' not in s
