@@ -87,6 +87,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0064-minimum-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akalewoled/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/akalewoled/leetcode_questions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0213-house-robber-ii) |
@@ -388,6 +389,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akalewoled/leetcode_questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/akalewoled/leetcode_questions/tree/master/0318-maximum-product-of-word-lengths) |
