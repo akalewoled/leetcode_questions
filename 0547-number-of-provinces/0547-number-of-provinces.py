@@ -25,7 +25,7 @@ class UnionFind:
             self.parent[rootP] = rootQ
             self.rank[rootQ] += self.rank[rootP]
         self.groups-=1
-        return False
+        
 
   
 
