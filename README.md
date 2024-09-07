@@ -128,6 +128,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0210-course-schedule-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/akalewoled/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/akalewoled/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akalewoled/leetcode_questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -140,6 +141,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0322-coin-change](https://github.com/akalewoled/leetcode_questions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/akalewoled/leetcode_questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/akalewoled/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/akalewoled/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -151,6 +153,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/akalewoled/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Matrix
 |  |
@@ -168,6 +171,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0210-course-schedule-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/akalewoled/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/akalewoled/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
