@@ -23,6 +23,7 @@ class Solution:
                 rank[p2] += rank[p1]
             return True
         for n1,n2 in edges:
+            print(parent)
             if not union(n1,n2):
                 return [n1,n2]
         
