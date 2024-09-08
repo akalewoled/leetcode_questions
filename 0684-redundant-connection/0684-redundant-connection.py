@@ -12,6 +12,7 @@ class Solution:
             return p
         def union( n1, n2):
             p1,p2 =find(n1),find(n2)
+            #123
 
             if p1 == p2 :
                 return False
