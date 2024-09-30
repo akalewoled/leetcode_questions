@@ -111,6 +111,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0945-snakes-and-ladders](https://github.com/akalewoled/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+| [1032-satisfiability-of-equality-equations](https://github.com/akalewoled/leetcode_questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akalewoled/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -154,6 +155,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0547-number-of-provinces](https://github.com/akalewoled/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
+| [1032-satisfiability-of-equality-equations](https://github.com/akalewoled/leetcode_questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Matrix
 |  |
@@ -174,6 +176,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0684-redundant-connection](https://github.com/akalewoled/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/akalewoled/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/akalewoled/leetcode_questions/tree/master/0881-loud-and-rich) |
+| [1032-satisfiability-of-equality-equations](https://github.com/akalewoled/leetcode_questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/akalewoled/leetcode_questions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akalewoled/leetcode_questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/akalewoled/leetcode_questions/tree/master/2439-longest-cycle-in-a-graph) |
@@ -227,6 +230,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0647-palindromic-substrings](https://github.com/akalewoled/leetcode_questions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
+| [1032-satisfiability-of-equality-equations](https://github.com/akalewoled/leetcode_questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akalewoled/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
