@@ -4,9 +4,7 @@ class Solution:
         arrd=sorted(set(arr))
         for i in range(len(arrd)):
             rank[arrd[i]]=i+1
-
         final=[]
-        for i in arr :
-            
+        for i in arr : 
             final.append(rank[i])      
         return final
