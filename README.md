@@ -113,6 +113,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1032-satisfiability-of-equality-equations](https://github.com/akalewoled/leetcode_questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
+| [1256-rank-transform-of-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/1256-rank-transform-of-an-array) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akalewoled/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1876-map-of-highest-peak](https://github.com/akalewoled/leetcode_questions/tree/master/1876-map-of-highest-peak) |
@@ -217,6 +218,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
+| [1256-rank-transform-of-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/1256-rank-transform-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/akalewoled/leetcode_questions/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -250,6 +252,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
+| [1256-rank-transform-of-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/1256-rank-transform-of-an-array) |
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
