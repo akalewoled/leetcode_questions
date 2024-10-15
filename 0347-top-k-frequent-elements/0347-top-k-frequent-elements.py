@@ -3,11 +3,13 @@ class Solution:
     def topKFrequent(self, arr: List[int], k: int) -> List[int]:
         res=[]
         count=Counter(arr)
-        l= list(count.values())
-        l.sort()
-        l=l[-k:]
-        for j in l:
-            for i in count:
-                if count[i]==j and i not in res:
-                    res.append(i)
-        return res
+        bucket=[[] for _ in range(len(arr)+1)]
+
+        for i,j in count.items():
+            bucket[j].append(i)
+        
+        for i in range(len(bucket)-1,-1,-1):
+            if len(res)>=k:
+                return res[:k]
+            res.extend(bucket[i])
+        return []
