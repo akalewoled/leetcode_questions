@@ -256,6 +256,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/akalewoled/leetcode_questions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/akalewoled/leetcode_questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
@@ -289,6 +290,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akalewoled/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/akalewoled/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/akalewoled/leetcode_questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akalewoled/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0948-sort-an-array) |
@@ -301,10 +303,12 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akalewoled/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/akalewoled/leetcode_questions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akalewoled/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/akalewoled/leetcode_questions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0948-sort-an-array) |
 ## Tree
 |  |
@@ -380,6 +384,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akalewoled/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/akalewoled/leetcode_questions/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/akalewoled/leetcode_questions/tree/master/0647-palindromic-substrings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akalewoled/leetcode_questions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
