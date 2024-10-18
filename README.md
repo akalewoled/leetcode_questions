@@ -116,6 +116,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0967-minimum-falling-path-sum](https://github.com/akalewoled/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1032-satisfiability-of-equality-equations](https://github.com/akalewoled/leetcode_questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1095-two-city-scheduling](https://github.com/akalewoled/leetcode_questions/tree/master/1095-two-city-scheduling) |
+| [1249-snapshot-array](https://github.com/akalewoled/leetcode_questions/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/1256-rank-transform-of-an-array) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akalewoled/leetcode_questions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akalewoled/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -228,6 +229,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0621-task-scheduler](https://github.com/akalewoled/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/akalewoled/leetcode_questions/tree/master/0778-reorganize-string) |
+| [1249-snapshot-array](https://github.com/akalewoled/leetcode_questions/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/1256-rank-transform-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
@@ -312,6 +314,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1249-snapshot-array](https://github.com/akalewoled/leetcode_questions/tree/master/1249-snapshot-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -319,6 +322,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akalewoled/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akalewoled/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1249-snapshot-array](https://github.com/akalewoled/leetcode_questions/tree/master/1249-snapshot-array) |
 ## Binary Tree
 |  |
 | ------- |
