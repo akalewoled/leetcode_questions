@@ -90,6 +90,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0137-single-number-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/akalewoled/leetcode_questions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/akalewoled/leetcode_questions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/akalewoled/leetcode_questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/akalewoled/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/akalewoled/leetcode_questions/tree/master/0260-single-number-iii) |
@@ -341,6 +342,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/akalewoled/leetcode_questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akalewoled/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/akalewoled/leetcode_questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akalewoled/leetcode_questions/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -452,4 +454,12 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/akalewoled/leetcode_questions/tree/master/0948-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/akalewoled/leetcode_questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/akalewoled/leetcode_questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
