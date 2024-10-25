@@ -8,6 +8,4 @@ class Solution:
             return factors
         set1=factors(min(nums))
         set2=factors(max(nums))
-        print(set1)
-        print(set2)
         return max(set1.intersection(set2))
