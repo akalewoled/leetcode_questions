@@ -125,6 +125,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [1962-single-threaded-cpu](https://github.com/akalewoled/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/akalewoled/leetcode_questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/akalewoled/leetcode_questions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/akalewoled/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/akalewoled/leetcode_questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2479-meeting-rooms-iii](https://github.com/akalewoled/leetcode_questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/akalewoled/leetcode_questions/tree/master/2502-sort-the-people) |
@@ -345,6 +346,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | [0204-count-primes](https://github.com/akalewoled/leetcode_questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/akalewoled/leetcode_questions/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/akalewoled/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/akalewoled/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akalewoled/leetcode_questions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Dynamic Programming
 |  |
@@ -462,4 +464,5 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/akalewoled/leetcode_questions/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/akalewoled/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
