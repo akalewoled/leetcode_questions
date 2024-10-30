@@ -241,6 +241,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akalewoled/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/akalewoled/leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/akalewoled/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/akalewoled/leetcode_questions/tree/master/0179-largest-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/akalewoled/leetcode_questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/akalewoled/leetcode_questions/tree/master/0399-evaluate-division) |
@@ -254,6 +255,7 @@ hello this rep is dedicated to the problems solved on leet-code and hacker rank
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akalewoled/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/akalewoled/leetcode_questions/tree/master/0692-top-k-frequent-words) |
 ## Sorting
 |  |
